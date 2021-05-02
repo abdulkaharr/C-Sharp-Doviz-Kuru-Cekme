@@ -1,0 +1,10 @@
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\bin\Debug\DovizKuruCekme.exe.config
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\bin\Debug\DovizKuruCekme.exe
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\bin\Debug\DovizKuruCekme.pdb
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.Form1.resources
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.Properties.Resources.resources
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.csproj.GenerateResource.cache
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.exe
+C:\Users\mehmet\source\repos\DovizKuruCekme\DovizKuruCekme\obj\Debug\DovizKuruCekme.pdb
